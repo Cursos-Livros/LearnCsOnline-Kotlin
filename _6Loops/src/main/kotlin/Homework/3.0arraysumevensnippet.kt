@@ -9,7 +9,7 @@ fun main() {
     var array = intArrayOf(1, 2, 3, 4, 5)
     var sum = 0
 
-    for (i in array.indices) {
+    for (i in 0 until array.size) {
         if (array[i] % 2 == 0) {
             sum += array[i]
         }

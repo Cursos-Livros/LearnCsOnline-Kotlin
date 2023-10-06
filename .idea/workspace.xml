@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d075211-7eef-48d7-9da9-cd3d5379bc96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/1.0function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/1.0addonefunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/10.0 Rotate Left 3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/11.0 Sum 3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/12.0 Sum Is Odd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/13.0 Swap Ends.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/14.0 Two Last Digit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/15.0 Accounting Calculato.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/16.0 Common End.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/2.0 Game Tiebreaker Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/20.0 Less.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/21 Max End 3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/22.0 Near 10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/23.5or35.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/24.0 Overloaded Multiply.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/25.0 Reverse Print.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/26.0 Same First Last.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/27.0 Sleep In.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/28.0 Special Eleven.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/29.0 Sum Double.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/3.0isEven.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/30.0 firstLast6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/4.0 Make Ends.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/5.0 Make Last.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/6.0 Make Midlle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/7.0 Returrn Pi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/8.0 Plus Two.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_7Function/src/main/kotlin/practice/9.0 Reverse Three.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_6Loops/src/main/kotlin/Homework/3.0arraysumevensnippet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/_6Loops/src/main/kotlin/Homework/3.0arraysumevensnippet.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ViuTUrRrAab4FyDGZzWBOTSLJf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/JV/Documents/Desenvolvimento/LearnCsOnline-Kotlin/_7Function"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d075211-7eef-48d7-9da9-cd3d5379bc96" name="Changes" comment="" />
+      <created>1695331229591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695331229591</updated>
+    </task>
+    <servers />
+  </component>
+</project>
